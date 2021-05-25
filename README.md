@@ -23,5 +23,18 @@ Intern Project
   
   ![image](https://user-images.githubusercontent.com/79407981/119513830-2fd07e80-bd92-11eb-8f1e-751a74abbb61.png)
   ![image](https://user-images.githubusercontent.com/79407981/119514021-55f61e80-bd92-11eb-8f40-922d6f912062.png)
+<h3>Deatils taken in the registration form(my project)</h3>
 
+<ul>
+  <li>Name</li>
+  <li>email</li>
+  <li>password</li>
+  <li>address</li>
+  <li>mobile</li>
+  <li>gender</li>
+  <li>hobbies</li>
+  <li>date of birth</li>
+</ul>
+<h3> Sample output </h3>
 
+![image](https://user-images.githubusercontent.com/79407981/119515830-d23d3180-bd93-11eb-8001-73a194437539.png)
